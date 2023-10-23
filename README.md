@@ -11,6 +11,11 @@
 
    Once you have created a repository, you can clone it to your local machine using the following command:
    ``` python
-   git clone https://github.com/your-username/your-repository.git 
+   git clone https://github.com/your-username/your-repository.git
+This will create a new directory on your local machine with the same name as your repository. The directory will contain all of the files from your remote repository.
+To pull changes from the remote repository to your local repository, run the following command:
+
+``` python
+   git pull origin master
 
 
