@@ -1,7 +1,7 @@
 # HOW TO USE GIT
 
 ## CREATE A REPOSITOTY
-To create a new repository on GitHub, follow these steps:
+### To create a new repository on GitHub, follow these steps:
 1. Go to GitHub.com and sign in to your account.
 2. Click the + button in the top right corner of the page.
 3. Select New repository.
