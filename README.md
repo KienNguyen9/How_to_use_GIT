@@ -22,6 +22,7 @@ This will create a new directory on your local machine with the same name as you
 This will download any changes that have been made to the remote repository since you last cloned it.
 
 ### To push changes from your local repository to the remote repository, run the following command:
+
 ``` python
    git push origin master
 ```
@@ -29,23 +30,23 @@ This will upload any changes that you have made to the local repository to the r
 
 ## Here is an example of how to use the git clone, git pull, and git push commands to create, pull, and push a repository:
 ``` python
-# Create a new repository on GitHub.
-git clone https://github.com/your-username/my-project.git
+   # Create a new repository on GitHub.
+   git clone https://github.com/your-username/my-project.git
 
-# Change into the directory containing the repository.
-cd my-project
+   # Change into the directory containing the repository.
+   cd my-project
 
-# Make some changes to the repository.
-# For example, you could create a new file called `README.md`.
+   # Make some changes to the repository.
+   # For example, you could create a new file called `README.md`.
 
-# Add the changes to the staging area.
-git add .
+   # Add the changes to the staging area.
+   git add .
 
-# Commit the changes with a descriptive message.
-git commit -m "Add README.md file."
+   # Commit the changes with a descriptive message.
+   git commit -m "Add README.md file."
 
-# Push the changes to the remote repository.
-git push origin master
+   # Push the changes to the remote repository.
+   git push origin master
 ```
 
 
