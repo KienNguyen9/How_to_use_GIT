@@ -13,4 +13,9 @@ To create a new repository on GitHub, follow these steps:
    ''' python
    git clone https://github.com/your-username/your-repository.git ''' 
 
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
 
