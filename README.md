@@ -10,12 +10,7 @@ To create a new repository on GitHub, follow these steps:
 6. Click Create repository.
 
    Once you have created a repository, you can clone it to your local machine using the following command:
-   ''' python
-   git clone https://github.com/your-username/your-repository.git ''' 
+   ``` python
+   git clone https://github.com/your-username/your-repository.git 
 
-```python
-def hello_world():
-    print("Hello, world!")
-
-hello_world()
 
