@@ -48,7 +48,10 @@ This will upload any changes that you have made to the local repository to the r
    # Push the changes to the remote repository.
    git push origin master
 ```
-
+# CÁC CÂU LỆNH CƠ BẢN ĐỂ QUẢN LÍ FILE VÀ THƯ MỤC
+```
+cd : change direc
+```
 
 
 
