@@ -24,3 +24,9 @@ git config -f [--scope] [option_name] [value]
 #         --global -> liên quan đến repo(s)
 #         --local  -> liên quan đến 1 repo
 ```
+## Exercise 1
+1. Chọn 1 thư mục
+2. mở git bash here
+3. gõ lệnh: git init EX1 (Tạo repo EX1 - Là 1 floder - branch master/main)
+4. gõ lệnh : cd EX1
+5. 
