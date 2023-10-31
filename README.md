@@ -51,6 +51,12 @@ This will upload any changes that you have made to the local repository to the r
 # CÁC CÂU LỆNH CƠ BẢN ĐỂ QUẢN LÍ FILE VÀ THƯ MỤC
 ```
 cd : change direc
+mkdir: make diractory
+touch: creat a file
+diff file1 file2 : so sánh 2 file
+rm file : xóa file
+rm -d folder : rỗng
+rm -r folder  : có dữ liệu
 ```
 
 
