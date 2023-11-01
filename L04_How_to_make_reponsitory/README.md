@@ -1,5 +1,5 @@
 # Lesson 4 - How to create a reponsitory
-## The key word.
+## The key-words.
 - Repository: (Kho lưu trữ)
 - commit: (Một đơn vị làm việc)
 - branch: (Nhánh)
