@@ -1,0 +1,3 @@
+git init EX1
+cd EX1
+git config -l
