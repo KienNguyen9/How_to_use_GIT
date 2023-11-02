@@ -14,6 +14,6 @@ echo "Hi! My friend" > Hi.txt
 # tạo thư mục
 mkdir KienNguyen 
 echo "KienNguyen" > .gitignore
-echo "Hi.txt" > .gitignore
-echo "*.log" > gitignore # tất cả các file .log
+echo "Hi.txt" >> .gitignore # >> ĐỂ GHI VÀO DÒNG KHÁC
+echo "*.log" >> gitignore # tất cả các file .log
 ```
