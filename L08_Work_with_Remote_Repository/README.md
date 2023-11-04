@@ -38,7 +38,7 @@ Làm việc với nhau qua kho lưu trữ central repo
 ## Central Repository
 Bước 1 tạo 1 folder nội bộ. VD: TH_Central_Repo
 
-```shel
+```shell
 # Tạo central repository
 mkdir TH_Central_Repo
 cd TH_Central_Repo
