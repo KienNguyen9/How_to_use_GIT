@@ -37,6 +37,11 @@ git log
 git checkout <XXXXXX> # Gõ khoảng 5 -7 kí tự và enter
 
 # dùng git log để xem - đã quay lại code cũ
-
-
 ```
+# TRẠNG THÁI: "detached HEAD state" là gì ? 
+vì có thể đi đến các commit để làm việc
+nhưng từ đó sẽ sinh tra trạng thái "detached HEAD state" vì HEAD có thể sẽ ko ở branch chính nữa. Nhưng điều này là hợp lệ, các xử lí:
+
+- tắt thông báo đó
+- merge các nhánh
+
