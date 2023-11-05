@@ -23,7 +23,7 @@ git checkout <branch_name>
 ```
 Hình ảnh minh họa:
 Nhánh chính có 3 commit 
-tọa ra 1 nhánh mói là nhành featute (tính năng)
+tạo ra 1 nhánh mới là nhánh featute_1 (tính năng)
 
 ![ ](image-1.png)
 
