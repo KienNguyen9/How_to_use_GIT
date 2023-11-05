@@ -46,7 +46,6 @@ git init --bare TH_Central_Repo # Tạo central repo
 
 #Tạo ra DEV1 Repo
 git clone TH_Central_Repo DEV1
-
 #Tạo ra DEV2 Repo
 git clone TH_Central_Repo DEV2
 
@@ -56,7 +55,7 @@ git clone TH_Central_Repo DEV2
 ```shell
 # Step 1: config cho DEV1
 cd DEV_1
-git config -local user.name "DEV_1"
+git config -local user.name 'DEV_1'
 
 # STEP 2
 echo "This is DEV_1's local repository" > DEV1_1.txt
