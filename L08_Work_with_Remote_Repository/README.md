@@ -52,27 +52,25 @@ git clone TH_Central_Repo DEV2
 
 ```
 
-## DEV 1
+## DEV1 
 ```shell
-# Step 1
-mkdir DEV_1
+# Step 1: config cho DEV1
 cd DEV_1
 git config -local user.name "DEV_1"
-echo "This is DEV_1's local repository" > DEV1_1.txt
+
 # STEP 2
+echo "This is DEV_1's local repository" > DEV1_1.txt
 git add .
 git commit -m "Intro - First commit"
 git push
 ```
 
-## DEV 2
+## DEV2 
 ```shell
-# step 1
-mkdir DEV_2
+# step 1: config cho DEV2
 cd DEV_2
-git config -local user.name "DEV_2"
-
+git config --local user.name "DEV_2"
 # STEP 2
 git fetch # Kiểm tra thông tin commit mới ở Central repo
-git pull
+git pull # lấy dữ liệu về 
 ```
