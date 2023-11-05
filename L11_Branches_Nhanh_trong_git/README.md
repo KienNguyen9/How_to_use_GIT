@@ -4,6 +4,7 @@
 - Nhánh con
 
 Có thể merge các nhánh với nhau, ví dụ:
+
 ![Alt text](image.png)
 
 Trong project có nhiều người cùng tham gia
@@ -23,7 +24,9 @@ git checkout <branch_name>
 Hình ảnh minh họa:
 Nhánh chính có 3 commit 
 tọa ra 1 nhánh mói là nhành featute (tính năng)
+
 ![ ](image-1.png)
+
 ```shell
 git branch branch_featute_1
 git checkout branch_featute_1
