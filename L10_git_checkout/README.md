@@ -8,7 +8,7 @@ git checkout <commit hash>
 ```
 Từ đó có thể quay về bất cứ commit nào để làm việc
 VD: Tạo ra 1 repo 
-# Commit 1
+## Commit 1
 ```shell
 git init VD_1
 cd VD_1
@@ -26,7 +26,7 @@ git commit -m "Tao file hello và thu muc folder_1"
 # dùng git log để xem các commit
 git log 
 ```
-# commit thứ 2
+## commit thứ 2
 ```shell
 # Tạo ra 1 file khác
 echo "noi dung" > a.txt
@@ -36,19 +36,24 @@ git commit -m "tao file a"
 # dùng lệnh git log để kiểm tra
 git log
 ```
-# Quay lại commit 1
+## Quay lại commit 1
 ```shell
 # Muốn qua lại đoạn code được commit đầu tiên
 # dùng lệnh git checkout chỉ cần gõ vài kĩ tự đầu tiên và TAB
 git checkout <XXXXXX> # Gõ commit hash của commit 1 khoảng 5 -7 kí tự và enter
 # dùng git log để xem - đã quay lại commit 1
 git status # check xem 
-
+```
+## commit 3
+```shell
 # chỉnh sửa
 echo "File b" > b.txt
 git add .
 git commit -m "commit file b"
+```
 
+## quay trở lại commit 2
+```shell
 # Có thể quay lại commit 2 luôn nhưng lúc này đã xuất hiện nhánh mới
 
 git checkout <commit hash of commit 2> 
