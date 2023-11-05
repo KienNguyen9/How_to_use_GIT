@@ -62,6 +62,7 @@ git checkout <commit hash of commit 2>
 ```
 # TRẠNG THÁI: "detached HEAD state" là gì ? 
 ![Alt text](image.png)
+
 vì có thể đi đến các commit để làm việc
 nhưng từ đó sẽ sinh tra trạng thái "detached HEAD state" vì HEAD có thể sẽ ko ở branch chính nữa. Nhưng điều này là hợp lệ, các xử lí:
 
