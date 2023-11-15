@@ -8,8 +8,16 @@ Cú pháp:
 ```shell
 git merge
 ```
-VD: có nhánh sau.
+VD: có nhánh sau:
+
 ![Alt text](image.png)
 
 Nếu đứng ở nhánh A, gọi lệnh merger, thứ tự các công việc được sắp theo thứ tự thời gian.
+
 ![Alt text](image-1.png)
+
+Tạo repo và thực hành theo ví dụ đơn giản trên:
+
+```shell 
+#...
+```
